@@ -14,6 +14,14 @@
 <img src = "https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26">
 <img src = "https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6">
 
+### Testing documentation
+
+- [Checklists](https://github.com/anzhelikabieliantseva/checklist)
+- [Test-Suites and Test-Cases](https://github.com/anzhelikabieliantseva/test-cases)
+- [Bug-Reports](https://github.com/anzhelikabieliantseva/bug-reports)
+- [SQL Queries](https://github.com/anzhelikabieliantseva/SQL)
+- [Postman Collections](https://github.com/anzhelikabieliantseva/postman)
+
 ### Follow Me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/angeliikss)
