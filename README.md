@@ -19,7 +19,7 @@
 - [Checklists](https://github.com/anzhelikabieliantseva/checklist)
 - [Test-Suites and Test-Cases](https://github.com/anzhelikabieliantseva/test-cases)
 - [Bug-Reports](https://github.com/anzhelikabieliantseva/bug-reports)
-- [SQL Queries](https://github.com/anzhelikabieliantseva/SQL)
+- [SQL Queries](https://github.com/anzhelikabieliantseva/SQL-Database)
 - [Postman Collection](https://github.com/anzhelikabieliantseva/Simple-Books-API)
 
 ### Follow Me
