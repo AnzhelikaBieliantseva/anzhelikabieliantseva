@@ -20,7 +20,7 @@
 - [Test-Suites and Test-Cases](https://github.com/anzhelikabieliantseva/test-cases)
 - [Bug-Reports](https://github.com/anzhelikabieliantseva/bug-reports)
 - [SQL Queries](https://github.com/anzhelikabieliantseva/SQL)
-- [Postman Collections](https://github.com/anzhelikabieliantseva/postman)
+- [Postman Collection](https://github.com/anzhelikabieliantseva/Simple-Books-API)
 
 ### Follow Me
 
